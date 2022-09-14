@@ -110,7 +110,18 @@ Christmas_guests =["hou", "jessie","Tom"]
 
 #joins my list 
 #concatenation
+newList = birthday_guests + Christmas_guests
+print(newList)
 #remove
+print(newList.remove("Tom"))
+print(newList)
+newList.append("Rebecca")
+newList.append("Jose")
+newList.append("James")
+print(newList)
+print(newList[4])
+print(len(newList))
+
 # birthday_guests[0] ="charlie"
 
 
