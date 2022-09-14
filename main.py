@@ -164,6 +164,15 @@ print(multiDimen[0][0])
 
 # In[ ]:
 
+avengers = ["Hawkeye","Hulk","Iron Man","Black Panther","Captain America"]
+guardiansOfTheGalaxy = ["Starlord","Drax","Rocket","Groot","Mantis","Gamora"]
+#join the lists in a new list
+# add two more characters into the mew list
+# reverse the list
+# remove one name from new list
+#find the index of Drax on the new list
+print(avengers + guardiansOfTheGalaxy)
+
 
 # #Tuples
 
